@@ -1,10 +1,27 @@
+import items from './items.json';
+// components
+import Navbar from './components/Navbar';
+
 function App() {
   return (
-    <>
-      <div>
-        <p>App</p>
-      </div>
-    </>
+    <div className="min-w-[768px]">
+      <Navbar />
+      <section>Carrusel</section>
+      <section>Tarjetas</section>
+      <main className="max-w-6xl mx-auto">
+        <h1>Ofertas</h1>
+        <ul>
+          {items &&
+            items.map((item) => (
+              <li key={item.name}>
+                <a href={item.link} target="_blank" rel="noreferrer">
+                  {item.name}
+                </a>
+              </li>
+            ))}
+        </ul>
+      </main>
+    </div>
   );
 }
 
