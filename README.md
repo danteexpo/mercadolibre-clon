@@ -1,3 +1,3 @@
 # Mercado Libre Clon
 
-Built with React, TailwindCSS, TypeScript, Swiper.js and react-pdf.
+Built with React, TailwindCSS, Sass, TypeScript and Swiper.js.

@@ -1,0 +1,52 @@
+.swiper-offers-container {
+  .swiper-button-prev,
+  .swiper-button-next {
+    --swiper-navigation-size: 20px;
+    font-weight: 700;
+    background-color: #fff;
+    height: 60px;
+    width: 60px;
+    margin-top: -5rem;
+    -webkit-box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.75);
+  }
+
+  .swiper-button-prev:hover,
+  .swiper-button-next:hover {
+    -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.75);
+  }
+
+  .swiper-button-prev {
+    border-radius: 9999px;
+    left: 0.5rem;
+  }
+
+  .swiper-button-next {
+    border-radius: 9999px;
+    right: 0.5rem;
+  }
+
+  .swiper .swiper-button-prev,
+  .swiper .swiper-button-next {
+    opacity: 0;
+  }
+
+  .swiper:hover .swiper-button-prev,
+  .swiper:hover .swiper-button-next {
+    opacity: 1;
+  }
+}
+.swiper-button-disabled {
+  display: none;
+}
+
+.swiper-offer-container {
+  transition: height 200ms;
+}
+
+.swiper-offer-container:hover .product-name {
+  display: flex;
+}

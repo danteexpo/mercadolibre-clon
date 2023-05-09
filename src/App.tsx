@@ -1,8 +1,8 @@
 // components
 import Navbar from './components/Navbar';
-import Carousel from './components/Carousel';
+import Carousel from './components/Carousel/Carousel';
 import PaymentBox from './components/PaymentBox';
-import Offers from './components/Offers';
+import Offers from './components/Offers/Offers';
 
 function App() {
   return (
