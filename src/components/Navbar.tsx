@@ -1,13 +1,13 @@
 import { useState } from 'react';
 // img
-import MercadoLibreLogo from '../assets/mercadolibrelogo.svg';
-import DisneyAd from '../assets/disney.svg';
-import Lupa from '../assets/lupa.svg';
-import Mapa from '../assets/mapa.svg';
-import Abajo from '../assets/abajo.svg';
-import Usuario from '../assets/usuario.svg';
-import Campana from '../assets/campana.svg';
-import Carrito from '../assets/carrito.svg';
+import MercadoLibreLogo from '../assets/navbar/mercadolibrelogo.svg';
+import DisneyAd from '../assets/navbar/disney.svg';
+import Lupa from '../assets/navbar/lupa.svg';
+import Mapa from '../assets/navbar/mapa.svg';
+import Abajo from '../assets/navbar/abajo.svg';
+import Usuario from '../assets/navbar/usuario.svg';
+import Campana from '../assets/navbar/campana.svg';
+import Carrito from '../assets/navbar/carrito.svg';
 
 const generalList = [
   { name: 'Categorías', icon: null },

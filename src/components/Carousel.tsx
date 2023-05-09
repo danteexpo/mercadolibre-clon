@@ -6,10 +6,10 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import 'swiper/css/autoplay';
 // img
-import carouselImg1 from '../assets/ml-1.png';
-import carouselImg2 from '../assets/ml-2.png';
-import carouselImg3 from '../assets/ml-3.png';
-import carouselImg4 from '../assets/ml-4.png';
+import carouselImg1 from '../assets/carousel/ml-1.png';
+import carouselImg2 from '../assets/carousel/ml-2.png';
+import carouselImg3 from '../assets/carousel/ml-3.png';
+import carouselImg4 from '../assets/carousel/ml-4.png';
 
 const carouselList = [
   {
@@ -32,7 +32,7 @@ const carouselList = [
 
 const Carousel = () => {
   return (
-    <section className="max-w-[1600px] mx-auto">
+    <section className="max-w-[1600px] mx-auto shadow">
       <Swiper
         modules={[Navigation, Pagination, Autoplay]}
         spaceBetween={0}

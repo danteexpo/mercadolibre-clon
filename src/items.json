@@ -1,34 +1,65 @@
 [
   {
-    "link": "https://www.mercadolibre.com.ar/samsung-galaxy-a04-128-gb-negro-4-gb-ram/p/MLA21024384?pdp_filters=deal:MLA779357-4&hide_psmb=true#searchVariation=MLA21024384&position=1&search_layout=grid&type=product&tracking_id=51c5ef30-fb21-4605-a44a-f728c502cc70&deal_print_id=83be1a1e-f41f-4bb0-9ea6-f01dfe109885&promotion_type=DEAL_OF_THE_DAY",
-    "name": "Samsung Galaxy A04 128 GB negro 4 GB RAM"
+    "name": "Samsung Galaxy A04 128 GB negro 4 GB RAM",
+    "price": 63167,
+    "off_percentage": 19,
+    "free_ship": true,
+    "full": false
   },
   {
-    "link": "https://www.mercadolibre.com.ar/monitor-gamer-samsung-f27t350fhl-led-27-dark-blue-gray-100v240v/p/MLA17864777?pdp_filters=deal:MLA779357-4&hide_psmb=true#searchVariation=MLA17864777&position=3&search_layout=grid&type=product&tracking_id=51c5ef30-fb21-4605-a44a-f728c502cc70&deal_print_id=83be1a1e-f41f-4bb0-9ea6-f01dfe109885&promotion_type=DEAL_OF_THE_DAY",
-    "name": "Monitor gamer Samsung F27T350FHL led 27' dark blue gray 100V/240V"
+    "name": "Monitor gamer Samsung F27T350FHL led 27' dark blue gray 100V/240V",
+    "price": 78999,
+    "off_percentage": 15,
+    "free_ship": true,
+    "full": true
   },
   {
-    "link": "https://www.mercadolibre.com.ar/ebook-reader-kindle-paperwhite-11-gen-68pulg-8gb-sumergible-color-negro/p/MLA19589868?pdp_filters=deal:MLA779357-4&hide_psmb=true#searchVariation=MLA19589868&position=5&search_layout=grid&type=product&tracking_id=51c5ef30-fb21-4605-a44a-f728c502cc70&deal_print_id=83be1a1e-f41f-4bb0-9ea6-f01dfe109885&promotion_type=TODAY_PROMOTION",
-    "name": "Ebook Reader Kindle Paperwhite 11 Gen 6,8puLG 8gb Sumergible Color Negro"
+    "name": "Ebook Reader Kindle Paperwhite 11 Gen 6,8puLG 8gb Sumergible Color Negro",
+    "price": 69627,
+    "off_percentage": 10,
+    "free_ship": true,
+    "full": false
   },
   {
-    "link": "https://www.mercadolibre.com.ar/moto-g42-128-gb-verde-atlantico-4-gb-ram/p/MLA19564575?pdp_filters=deal:MLA779357-4&hide_psmb=true#searchVariation=MLA19564575&position=6&search_layout=grid&type=product&tracking_id=51c5ef30-fb21-4605-a44a-f728c502cc70&deal_print_id=83be1a1e-f41f-4bb0-9ea6-f01dfe109885&promotion_type=TODAY_PROMOTION",
-    "name": "Moto G42 128 GB verde atlántico 4 GB RAM"
+    "name": "Moto G42 128 GB verde atlántico 4 GB RAM",
+    "price": 93789,
+    "off_percentage": 10,
+    "free_ship": true,
+    "full": false
   },
   {
-    "link": "https://www.mercadolibre.com.ar/smart-tv-noblex-dk32x5050pi-led-hd-32/p/MLA19461815?pdp_filters=deal:MLA779357-4&hide_psmb=true#searchVariation=MLA19461815&position=7&search_layout=grid&type=product&tracking_id=51c5ef30-fb21-4605-a44a-f728c502cc70&deal_print_id=83be1a1e-f41f-4bb0-9ea6-f01dfe109885&promotion_type=DEAL_OF_THE_DAY",
-    "name": "Smart Tv Noblex Dk32x5050pi Led Hd 32'"
+    "name": "Smart Tv Noblex Dk32x5050pi Led Hd 32'",
+    "price": 49999,
+    "off_percentage": 37,
+    "free_ship": true,
+    "full": true
   },
   {
-    "link": "https://articulo.mercadolibre.com.ar/MLA-1368156399-zapatillas-patriot-12-asics-sport-78-tienda-oficial-_JM?hide_psmb=true#position=32&search_layout=grid&type=item&tracking_id=f95c2fd9-e399-422c-aa1d-bbab5dc7e1ed&deal_print_id=357d50f0-c571-44ef-9a85-574ca0dc377f&promotion_type=DEAL_OF_THE_DAY",
-    "name": "Zapatillas Patriot 12 Asics Sport 78 Tienda Oficial"
+    "name": "Disco sólido interno Kingston SA400S37/240G 240GB negro",
+    "price": 9404,
+    "off_percentage": 23,
+    "free_ship": true,
+    "full": true
   },
   {
-    "link": "https://www.mercadolibre.com.ar/smart-tv-philips-6900-series-43pfd691777-led-android-10-full-hd-43-110v240v/p/MLA19465098?pdp_filters=deal:MLA779357-4&hide_psmb=true#searchVariation=MLA19465098&position=18&search_layout=grid&type=product&tracking_id=51c5ef30-fb21-4605-a44a-f728c502cc70&deal_print_id=83be1a1e-f41f-4bb0-9ea6-f01dfe109885&promotion_type=TODAY_PROMOTION",
-    "name": "Smart TV Philips 6900 Series 43PFD6917/77 LED Android 10 Full HD 43' 110V/240V"
+    "name": "Smart TV Philips 6900 Series 43PFD6917/77 LED Android 10 Full HD 43' 110V/240V",
+    "price": 99999,
+    "off_percentage": 32,
+    "free_ship": true,
+    "full": false
   },
   {
-    "link": "https://www.mercadolibre.com.ar/aire-acondicionado-sansei-split-friocalor-2236-frigorias-blanco-220v-sas25ha3an/p/MLA16204860?pdp_filters=deal:MLA779357-4&hide_psmb=true#searchVariation=MLA16204860&position=29&search_layout=grid&type=product&tracking_id=51c5ef30-fb21-4605-a44a-f728c502cc70&deal_print_id=83be1a1e-f41f-4bb0-9ea6-f01dfe109885&promotion_type=DEAL_OF_THE_DAY",
-    "name": "Aire acondicionado Sansei split frío/calor 2236 frigorías blanco 220V SAS25HA3AN"
+    "name": "Aire acondicionado Sansei split frío/calor 2236 frigorías blanco 220V SAS25HA3AN",
+    "price": 156999,
+    "off_percentage": 60,
+    "free_ship": true,
+    "full": false
+  },
+  {
+    "name": "Parlante JBL Flip 6 portátil con bluetooth waterproof azul",
+    "price": 49499,
+    "off_percentage": 15,
+    "free_ship": true,
+    "full": true
   }
 ]
